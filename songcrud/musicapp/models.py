@@ -45,3 +45,4 @@ class Lyric(models.Model):
     class Meta:
         verbose_name = ('Lyric')
         verbose_name_plural = ('Lyrics')  
+
